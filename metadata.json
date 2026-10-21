@@ -1,0 +1,8 @@
+{
+  "name": "VARUN EDITOR — Cinematic Portfolio",
+  "description": "Premium creative portfolio for VARUN EDITOR: Video Editing, Reels & Creative Media Shoots based in Chennai, Tamil Nadu. Your Vision. My Creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
